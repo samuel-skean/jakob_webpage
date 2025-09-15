@@ -6,7 +6,7 @@ title: Assoc. Prof. of Computer Science
 I am currently looking to recruit up to 4 new PhD students to work on core computer systems research. Positions are fully funded, primarily via research assistantship. Send me an email to learn more about this opportunity. 
 
 # research interests 
-While my interests have varied over the years, I am currently focusing on core computer systems research, including operating systems, concurrency, performance, and operating systems. 
+While my interests have varied over the years, I am currently focusing on core computer systems research, including operating systems, concurrency, and performance. 
 
 # teaching 
 I teach and have had a hand in the design of many of the systems classes in the CS department, such as 
@@ -49,7 +49,7 @@ I grew up in Sweden, and I have three children together with my wife [Natasha De
 <a name="contact"></a>
 _I am on sabbatical leave until Aug 2023, and you will not be likely find me on campus._
 
-Other times, my office is in **1309 SEO**, one flight of stairs up from where the SEO elevator stops. My lab is next door, in **1300 SEO**. My office phone number is (312) 996-0481, but 
+Other times, my office is in **4452 CDRLC**. My lab is in **1300 SEO**. My office phone number is (312) 996-0481, but 
 I am best reached by email, at **jakob@uic.edu**. 
 
 # resume
